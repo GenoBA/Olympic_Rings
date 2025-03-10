@@ -51,5 +51,5 @@ t.write("Winter Olympics",font=("Arial",30, "bold"), align="center")
 t.goto(0,-100)
 t.write("2026",font=("Arial",30, "bold"), align="center")
 
-
+t.hideturtle()
 turtle.done()
